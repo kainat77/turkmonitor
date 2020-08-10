@@ -620,7 +620,7 @@
               "background-color": "@cardsBg"
             },
             ".card-title, .card-img": {
-              "color": "#373833"
+              "color": "#0b4141"
             },
             "P": {
               "color": "#373833"
@@ -693,7 +693,7 @@
               "background-color": "@cardsBg"
             },
             ".card-title, .card-img": {
-              "color": "#373833"
+              "color": "#0b4141"
             },
             "P": {
               "color": "#373833"
@@ -766,7 +766,7 @@
               "background-color": "@cardsBg"
             },
             ".card-title, .card-img": {
-              "color": "#373833"
+              "color": "#0b4141"
             },
             "P": {
               "color": "#373833"
