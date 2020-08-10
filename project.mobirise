@@ -89,8 +89,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "TurkMonitor - Sınai Mülkiyet Araştırma ve İzleme",
+        "meta_descr": "Patent araştıma ve izleme hizmetleri veriyoruz.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
