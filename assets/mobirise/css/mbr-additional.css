@@ -1308,7 +1308,7 @@ section.lazy-placeholder:after {
   font-style: italic;
 }
 .cid-s7audIBf5c .mbr-text {
-  color: #0b4141;
+  color: #373833;
 }
 .cid-s7audIBf5c textarea.form-control {
   min-height: 100px;
@@ -1358,6 +1358,14 @@ section.lazy-placeholder:after {
 }
 .cid-s7audIBf5c H2 {
   color: #0b4141;
+}
+.cid-s7audIBf5c H5 {
+  text-align: left;
+  color: #373833;
+}
+.cid-s7audIBf5c .icon-block,
+.cid-s7audIBf5c .icon-block .icon-block__title {
+  color: #373833;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
