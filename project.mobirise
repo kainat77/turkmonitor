@@ -77,7 +77,7 @@
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -86,13 +86,14 @@
       "colorButton": "",
       "colorLink": "#424a4d",
       "underlineLink": true,
-      "opacity": "99",
+      "opacity": "84",
       "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "text": "En iyi kullanıcı deneyimi için çerezleri kulunuyoruz. Çerezler politikamıza göz atmak için lütfen <a href='privacy.html'>tıklayınız</a>.",
       "textButton": "Tamam"
     },
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
