@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700&display=swap);
 
 
 
@@ -8,7 +8,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 3.8rem;
   font-display: swap;
 }
@@ -16,7 +16,7 @@ body {
   font-size: 6.08rem;
 }
 .display-2 {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -24,7 +24,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -32,7 +32,7 @@ body {
   font-size: 1.92rem;
 }
 .display-5 {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 1.8rem;
   font-display: swap;
 }
@@ -40,7 +40,7 @@ body {
   font-size: 2.88rem;
 }
 .display-7 {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -546,7 +546,7 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 1.2rem;
   font-display: swap;
 }
