@@ -11,7 +11,7 @@
         "successColor": "#373833",
         "infoColor": "#373833",
         "warningColor": "#373833",
-        "dangerColor": "#373833",
+        "dangerColor": "#0b4141",
         "mainFont": "Rubik",
         "display1Font": "Libre Baskerville",
         "display1Size": "3",
