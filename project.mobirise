@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TurkMonitor",
-    "currentPage": "page17.html",
+    "currentPage": "bulus-anlama-egitimi.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10821,9 +10821,9 @@
         }
       ]
     },
-    "page17.html": {
+    "patent-arastirma-egitimi.html": {
       "settings": {
-        "meta_descr": "Şirket satın alımlarında, franchise ve lisans anlaşmalarında ve işletme sermaye artırımlarında kullanılmak üzere marka değerleme raporları hazırlıyoruz.",
+        "meta_descr": "Patent araştırma eğitimimizle...",
         "title": "TurkMonitor - Patent Araştırma Eğitimi",
         "order": 14
       },
@@ -11430,9 +11430,9 @@
         }
       ]
     },
-    "page18.html": {
+    "bulus-anlama-egitimi.html": {
       "settings": {
-        "meta_descr": "Şirket satın alımlarında, franchise ve lisans anlaşmalarında ve işletme sermaye artırımlarında kullanılmak üzere marka değerleme raporları hazırlıyoruz.",
+        "meta_descr": "Buluş anlama eğitimimizle...",
         "title": "TurkMonitor - Buluş Anlama Eğitimi",
         "order": 15
       },
@@ -12039,9 +12039,9 @@
         }
       ]
     },
-    "page19.html": {
+    "ticarilestirme-egitimi.html": {
       "settings": {
-        "meta_descr": "Şirket satın alımlarında, franchise ve lisans anlaşmalarında ve işletme sermaye artırımlarında kullanılmak üzere marka değerleme raporları hazırlıyoruz.",
+        "meta_descr": "Ticarileştirme eğitmimizle...",
         "title": "TurkMonitor - Ticarileştirme Eğitimi",
         "order": 16
       },
