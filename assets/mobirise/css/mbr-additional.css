@@ -1834,13 +1834,13 @@ section.lazy-placeholder:after {
 .cid-s7nUerJyZi {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-color: #e8eae3;
+  background-color: #0b4141;
 }
 .cid-s7nUerJyZi div.b {
   padding-top: 2rem;
 }
 .cid-s7nUerJyZi .mbr-text {
-  color: #767676;
+  color: #ffffff;
   margin: 0;
   padding-top: 1.5rem;
 }
@@ -1887,6 +1887,9 @@ section.lazy-placeholder:after {
 }
 .cid-s7nUerJyZi H2 {
   color: #0b4141;
+}
+.cid-s7nUerJyZi H5 {
+  color: #ffffff;
 }
 .cid-s7lk9o5Rbs {
   padding-top: 30px;
