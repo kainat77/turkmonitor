@@ -1831,8 +1831,19 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #0b4141 !important;
 }
+.cid-scFlNGhFpP {
+  padding-top: 135px;
+  padding-bottom: 0px;
+  background-color: #0b4141;
+}
+.cid-scFlNGhFpP P {
+  color: #767676;
+}
+.cid-scFlNGhFpP H1 {
+  color: #ffffff;
+}
 .cid-s7nUerJyZi {
-  padding-top: 120px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #0b4141;
 }
